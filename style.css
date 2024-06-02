@@ -82,7 +82,7 @@ body {
 }
 
 #page-1 p {
-  transform: translateX(-100vh);
+  transform: translateX(-200vh);
   animation: heading var(--animate-speed) ease-in 2s 1 alternate forwards;
 }
 
